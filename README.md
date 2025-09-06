@@ -7,7 +7,7 @@
 
 ---
 
-![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ0M3IyeG9kZzZoZjNzYmJ1eTN2dmh0azc5bGdqNjRobjB4MHE2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif widht="200")
+![halo]("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ0M3IyeG9kZzZoZjNzYmJ1eTN2dmh0azc5bGdqNjRobjB4MHE2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif" widht="200")
 
 ---
 
