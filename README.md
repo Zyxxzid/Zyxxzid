@@ -22,6 +22,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+ 
+ ![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ0M3IyeG9kZzZoZjNzYmJ1eTN2dmh0azc5bGdqNjRobjB4MHE2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif)
 
 ##### My Social Media :
 ![https://www.instagram.com/zyxx_zid/](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.pinterest.com/gamingalzid/](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white) ![https://www.tiktok.com/@zidan_1752](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
