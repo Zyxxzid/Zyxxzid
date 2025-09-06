@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="img/爱.jpeg" alt="halo" width="1000"/>
+  <img src="img/爱.jpeg" alt="halo" width="1000" border-radius="10"/>
 </div>
 
 ##### Skills :
