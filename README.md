@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![Zaidan Rezkyando](img/github-header-banner.png)
+=======
+halo
+>>>>>>> ae3c5a02ffd5c8f0336b6a83b12f17e67c8122ad
 
 <!--
 **Zyxxzid/Zyxxzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...a
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 ##### Skills :
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,4 +35,7 @@ Here are some ideas to get you started:
 
 ##### My Profil Stats :
 ![Zyxx_zid GitHub stats](https://github-readme-stats.vercel.app/api?username=zyxxzid&show_icons=true&theme=midnight-purple)
+=======
+
+>>>>>>> ae3c5a02ffd5c8f0336b6a83b12f17e67c8122ad
 
