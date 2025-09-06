@@ -14,7 +14,9 @@
   <img src="img/NF2U!.jpeg" alt="halo" width="54%" border-radius="100"/>
     <img src="img/@gqthichic.jpeg" alt="halo" width="45.5%" border-radius="100"/>
 </div>
-
+<div align="center">
+    <img src="img/download.gif" alt="halo" width="1000" border-radius="100"/>
+</div>
 </div>
 
 ---
