@@ -1,4 +1,4 @@
-![Zaidan Rezkyando](img/github-header-banner.png)
+![Zaidan Rezkyando](img/header.png)
 
 <!-- Profile README -->
 
