@@ -1,4 +1,4 @@
-![Zaidan Rezkyando](img/header.png)
+<img src="img/header.png" widht="1000">
 
 <!-- Profile README -->
 
