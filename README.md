@@ -11,7 +11,7 @@
 
 <div display="flex">
 <div>
-  <img src="img/NF2U!.jpeg" alt="halo" width="45%" border-radius="100"/>
+  <img src="img/NF2U!.jpeg" alt="halo" width="52%" border-radius="100"/>
     <img src="img/@gqthichic.jpeg" alt="halo" width="45%" border-radius="100"/>
 </div>
 
