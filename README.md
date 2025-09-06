@@ -13,6 +13,9 @@
 <div align="right">
   <img src="img/NF2U!.jpeg" alt="halo" width="450" border-radius="100"/>
 </div>
+<div align="left">
+  <img src="img/@gqthichic.jpeg" alt="halo" width="450" border-radius="100"/>
+</div>
 
 #### My Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyxx_zid/)  
