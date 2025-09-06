@@ -1,4 +1,4 @@
-<img src="img/header.png" widht="1000">
+<img src="img/header.png" width="1000">
 
 <!-- Profile README -->
 
