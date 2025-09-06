@@ -15,7 +15,7 @@
     <img src="img/@gqthichic.jpeg" alt="halo" width="45.5%" border-radius="100"/>
 </div>
 <div align="center">
-    <img src="img/ᵏᵒᵒᵏᵛ.gif" alt="halo" width="1000" border-radius="100"/>
+    <img src="img/download(1).gif" alt="halo" width="1000" border-radius="100"/>
 </div>
 </div>
 
