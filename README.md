@@ -13,10 +13,9 @@
 <div display="flex">
 <div align="">
   <img src="img/NF2U!.jpeg" alt="halo" width="40%" border-radius="100"/>
+    <img src="img/@gqthichic.jpeg" alt="halo" width="40%" border-radius="100"/>
 </div>
-<div align="">
-  <img src="img/@gqthichic.jpeg" alt="halo" width="40%" border-radius="100"/>
-</div>
+
 </div>
 
 #### My Social Media :
